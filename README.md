@@ -1,1 +1,1 @@
-# vendingMachine
+Vending Machine Simulation
