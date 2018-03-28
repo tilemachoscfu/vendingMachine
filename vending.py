@@ -1,3 +1,7 @@
+# Tasks
+# Calculate the change first before giving them.
+
+
 class VendingMachine:
 
 	def __init__(self, coins):
